@@ -1,0 +1,6 @@
+RENCANA KONTEN PICAK
+
+- Javascript
+- PHP Framework
+- Interview
+- Vlogs
