@@ -2,3 +2,5 @@ PICAK RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan vidio
 - Membuat aplikasi sederhana menggunakan PHP
+- Membuat Pario Crispy atau Kripik Talas
+- Kolaborasi dengan lebih banyak expert
